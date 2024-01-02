@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:inacio-dev/TodoAPI-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:inacio-dev/TodoAPI-Backend.git
